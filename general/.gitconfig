@@ -1,11 +1,6 @@
-[credential]
-	helper = wincred
-[http]
-	sslVerify = false
-	proxy = http://gateway.veolia.zscalertwo.net:10117
 [user]
 	name = Adam Lukaszewski
-	email = adam.lukaszewski@veolia.com
+	email = adam.lukaszewski@creative-doing.de
 [core]
 	autocrlf = true
 [push]
